@@ -8,7 +8,7 @@ We greatly value working in an open manner, and all of the operations of the Div
 
 Radical transparency can be dangerous to underrepresented people because "it may provide additional information that abusers can use to target them. In addition, even routine practices of theirs might be unduly criticized when revealed by radical transparency (eg, their practice of earning a living)." (source: [Geek Feminism](http://geekfeminism.wikia.com/wiki/Radical_transparency)).
 
-Given that the Diversity Working Group is, by definition, working with sensitive topics, it is ultimately in participant's best interest for most communications to be private.
+Given that the Diversity Working Group is, by definition, working with sensitive topics, it is ultimately up to the participant to choose a communication channel (public or private) that best suits their needs.
 
 The Diversity Working Group uses [Slack](node-diversity-wg.slack.com), a private invite only chat system, for most communication. Meetings are held using Google Hangout links that are distributed in the Slack channel, and are also private meetings.
 
