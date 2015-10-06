@@ -15,7 +15,7 @@ inclusivity.
 * Acknowledge and celebrate existing diversity accomplishments within the
 project while seeking to build upon them.
 * Identify ways to measure diversity and inclusivity within the project. Collect
-the measurements on report on them at regular intervals.
+the measurements and report on them at regular intervals.
 
 ### Initial Membership
 
