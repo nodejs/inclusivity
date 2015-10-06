@@ -19,6 +19,6 @@ the measurements and report on them at regular intervals.
 
 ### Initial Membership
 
-* 
-*
+* @nebrius (Bryan Hughes)
+* @beaugunderson (Beau Gunderson)
 *
