@@ -22,8 +22,9 @@ the measurements and report on them at regular intervals.
 
 ### Initial Membership
 
-* [@nebrius](https://github.com/nebrius) (Bryan Hughes)
+* [@ashleygwilliams](https://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
+* [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@sup](https://github.com/sup) (Jona Hugger)
-* [@ashleygwilliams](http://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
+* [@Trott](https://github.com/Trott) (Rich Trott)
 * *your name here*
