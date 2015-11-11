@@ -24,6 +24,6 @@ the measurements and report on them at regular intervals.
 
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
-* [@schisma](https://github.com/schisma) (Jona Hugger)
+* [@sup](https://github.com/sup) (Jona Hugger)
 * [@ashleygwilliams](http://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
 * *your name here*
