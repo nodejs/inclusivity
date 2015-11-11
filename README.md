@@ -10,7 +10,9 @@ The Diversity Working Group seeks to extend inclusivity for the Node.js project.
 
 ### List of Responsibilities
 
-* Foster a welcoming environment that ensures participants are valued and can feel confident contributing or joining discussions regardless of their background or level of experience
+* Foster a welcoming environment that ensures participants are valued and can
+feel confident contributing or joining discussions regardless of their
+background, identity, or level of experience.
 * Proactively seek and propose concrete steps the project can take to increase
 inclusivity.
 * Acknowledge and celebrate existing diversity accomplishments within the
