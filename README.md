@@ -29,9 +29,14 @@ community spaces.
 
 The Inclusivity Working Group explicitly does *not* have moderation or
 enforcement power in the greater Node community or Project. It will,
-however, make recommendations to the TSC on moderation and enforcement in
+however, make recommendations and provide guidance to the community
+of collaborators on moderation and enforcement in
 regards to incidents on the project and in the community. These
 recommendations are not binding in any way.
+
+If those recommendations are controversial or cannot be resolved through
+normal discourse, then they can be escalated to the TSC per the normal
+governance process.
 
 ### List of Responsibilities
 
