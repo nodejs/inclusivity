@@ -11,9 +11,9 @@ The Inclusivity Working Group seeks to increase inclusivity and diversity within
 ### Responsibilities
 
 * Foster an environment that ensures that any and all individuals feel equally welcomed and empowered to openly participate in all aspects of the Node.js project.
-* Leverage only open and inclusive channels of communication to discuss inclusivity and diversity matters that impact all participants in the Node.js project.
+* Leverage, as much as possible, open and inclusive channels of communication to discuss inclusivity and diversity matters that impact all participants in the Node.js project.
 * Proactively seek and propose -- using Node.js' existing governance and development policies -- concrete steps and best practices that all collaborators can follow to improve inclusivity and diversity.
-* Serve as a resource for all collaborators to help identify specific barriers to inclusivity and diversity and to work collaboratively with all members of the project to resolve those barriers using Node.js' established open governance model.
+* Serve as a resource for all collaborators to help identify specific barriers to inclusivity and diversity and to work collaboratively with all members of the project to resolve those barriers using Node.js' open governance model.
 
 ### Membership
 
