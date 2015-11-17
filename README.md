@@ -14,6 +14,7 @@ for the Node.js project:
     backgrounds to the Node.js project and maintain their participation. 
 
 ### Membership
+> This is currently In-Progress. Please join the conversation [here][1].
 
 Membership and participation with the Inclusivity Working Group is open
 to any member of the Node.js Github Organization.
@@ -23,13 +24,14 @@ are not represented in the Node.js Github Organization but are active
 in the great Node.js Community.
 
 More information about joining this Working Group is available in our 
-[Membership Policy][].
+[Membership Policy][1].
 
 ### Code of Conduct
+> This is currently In-Progress. Please join the conversation [here][2]. 
 
 Due to the nature of the work the Inclusivity Working Group engages in,
-it employs a more specific and stricter Code of Conduct than the Node.js
-project. It is our belief that both Codes of Conduct are in the same spirit,
+it employs a [more specific and stricter Code of Conduct][2] than the [Node.js
+project][3]. It is our belief that both Codes of Conduct are in the same spirit,
 the Working Groups' CoC simply being an extension of the Node CoC, with 
 additional operations details re: enforcement.
 
@@ -59,7 +61,7 @@ their identity, including but not limited to:
   - nationality
   - language
   - skill level or expertise
-  - [gender or sex][1]
+  - [gender or sex][3]
   - physical or mental ability
   - age
   - religion, or lack thereof
@@ -106,4 +108,6 @@ goal for the private spaces is to create a safe space for education and understa
 * [@Trott](https://github.com/Trott) (Rich Trott)
 * *your name here*
 
-[1]: http://www.glaad.org/reference/transgender
+[1]: https://github.com/nodejs/inclusivity/pull/32
+[2]: https://github.com/nodejs/inclusivity/pull/22
+[3]: http://www.glaad.org/reference/transgender
