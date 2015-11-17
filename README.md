@@ -22,7 +22,7 @@ their identity, including but not limited to:
   - nationality
   - language
   - skill level or expertise
-  - gender or sex
+  - [gender or sex][1]
   - physical or mental ability
   - age
   - religion, or lack thereof
@@ -43,3 +43,5 @@ report them at regular intervals
 * [@sup](https://github.com/sup) (Jona Hugger)
 * [@Trott](https://github.com/Trott) (Rich Trott)
 * *your name here*
+
+[1]: http://www.glaad.org/reference/transgender
