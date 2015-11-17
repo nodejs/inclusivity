@@ -32,8 +32,8 @@ inclusivity.
 protect community members and projects from harrassment and abuse.
 * Acknowledge and celebrate existing diversity accomplishments within the
 project while seeking to build upon them.
-* Identify ways to measure diversity and inclusivity within the project. Collect 
-the measurements and report on them at regular intervals.
+* Identify ways to measure diversity and inclusivity within the project and
+report them at regular intervals
 
 ### Initial Membership
 
