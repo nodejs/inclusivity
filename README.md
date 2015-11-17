@@ -13,6 +13,18 @@ for the Node.js project:
   - Increasing diversity seeks to actively onboard people from diverse
     backgrounds to the Node.js project and maintain their participation. 
 
+### Membership
+
+Membership and participation with the Inclusivity Working Group is open
+to any member of the Node.js Github Organization.
+
+Additionally, this group is interested in involving those people who 
+are not represented in the Node.js Github Organization but are active
+in the great Node.js Community.
+
+More information about joining this Working Group is available in our 
+[Membership Policy][].
+
 ### Code of Conduct
 
 Due to the nature of the work the Inclusivity Working Group engages in,
