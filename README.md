@@ -10,8 +10,8 @@ The Inclusivity Working Group seeks to increase inclusivity and diversity
 for the Node.js project:
   - Increasing inclusivity seeks to make the Node.js project a safe and
     friendly place for people from diverse backgrounds.
-  - Increasing diversity seeks to actively and actually onboarding people from
-    diverse backgrounds to the Node.js project and maintain their participation. 
+  - Increasing diversity seeks to actively onboard people from diverse
+    backgrounds to the Node.js project and maintain their participation. 
 
 ### List of Responsibilities
 
