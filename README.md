@@ -27,11 +27,11 @@ The Inclusivity Working Group shall have autonomy over enforcing it's own
 Code of Conduct and moderating its own PRs, issues, Slacks, and other
 community spaces.
 
-The Inclusivity explicitly does *not* have moderation or enforcement power
-in the greater Node community or Project. It will, however, make recommendations
-to the TSC on moderation and enforcement in regards to incidents on the 
-project and in the community. These recommendations are not binding in any
-way.
+The Inclusivity Working Group explicitly does *not* have moderation or
+enforcement power in the greater Node community or Project. It will,
+however, make recommendations to the TSC on moderation and enforcement in
+regards to incidents on the project and in the community. These
+recommendations are not binding in any way.
 
 ### List of Responsibilities
 
