@@ -80,7 +80,7 @@ issues, specifically to receive structured community feedback for no less than a
 one week review period.
 
 We believe that private spaces will mitigate the intense, often unintended public
-backlash people can often incur when dealing with a inclusivity situation. The
+backlash people can often incur when dealing with an inclusivity situation. The
 goal for the private spaces is to create a safe space for education and understanding.
 
 ### Initial Membership
