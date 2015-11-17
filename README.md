@@ -29,7 +29,7 @@ their identity, including but not limited to:
 * Proactively seek and propose concrete steps the project can take to increase
 inclusivity.
 * Serve as a resource for the development and enforcement of workflows that 
-protect community members and projects from harrassment and abuse.
+protect community members and projects from harassment and abuse.
 * Acknowledge and celebrate existing diversity accomplishments within the
 project while seeking to build upon them.
 * Identify ways to measure diversity and inclusivity within the project and
