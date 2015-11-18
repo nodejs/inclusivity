@@ -21,7 +21,7 @@ to any member of the Node.js Github Organization.
 
 Additionally, this group is interested in involving those people who 
 are not represented in the Node.js Github Organization but are active
-in the great Node.js Community.
+in the greater Node.js Community.
 
 More information about joining this Working Group is available in our 
 [Membership Policy][1].
@@ -37,7 +37,7 @@ additional operations details re: enforcement.
 
 ### Scope
 
-The Inclusivity Working Group shall have autonomy over enforcing it's own
+The Inclusivity Working Group shall have autonomy over enforcing its own
 Code of Conduct and moderating its own PRs, issues, Slacks, and other
 community spaces.
 
