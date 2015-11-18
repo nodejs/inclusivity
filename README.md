@@ -103,6 +103,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
 * [@juliepagano](https://github.com/juliepagano) (Julie Pagano)
 * [@zkat](https://github.com/zkat) (Kat Marachan)
+* [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@sup](https://github.com/sup) (Jona Hugger)
 * [@Trott](https://github.com/Trott) (Rich Trott)
