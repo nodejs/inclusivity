@@ -56,7 +56,7 @@ governance process.
 ### List of Responsibilities
 
 * Foster a welcoming environment that ensures participants are valued and can
-feel confident contributing or joining discussions regardless of any aspect of 
+feel confident contributing or joining discussions, regardless of any aspect of 
 their identity, including but not limited to:
   - racial or ethnic background
   - nationality
