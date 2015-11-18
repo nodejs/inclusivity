@@ -19,9 +19,10 @@ for the Node.js project:
 Membership and participation with the Inclusivity Working Group is open
 to any member of the Node.js Github Organization.
 
-Additionally, this group is interested in involving those people who 
-are not represented in the Node.js Github Organization but are active
-in the greater Node.js Community.
+Additionally, this membership and participation in the Inclusivity
+Working group may also be extended to those people who are not represented
+in the Node.js Github Organization but are active in the greater Node.js
+Community.
 
 More information about joining this Working Group is available in our 
 [Membership Policy][1].
