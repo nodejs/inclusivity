@@ -8,20 +8,20 @@
 
 The Inclusivity Working Group seeks to increase inclusivity and diversity
 for the Node.js project:
-  - Increasing inclusivity seeks to make the Node.js project a safe and
+  - *Increasing inclusivity* means making the Node.js project a safe and
     friendly place for people from diverse backgrounds.
-  - Increasing diversity seeks to actively onboard people from diverse
-    backgrounds to the Node.js project and maintain their participation. 
+  - *Increasing diversity* means actively onboarding people from diverse
+    backgrounds to the Node.js project and maintaining their participation.
 
 ### Membership
 > This is currently In-Progress. Please join the conversation [here][1].
 
 Membership and participation with the Inclusivity Working Group is open
-to any member of the Node.js Github Organization.
+to any member of the Node.js GitHub Organization.
 
 Additionally, membership and participation in the Inclusivity
 Working group may also be extended to those people who are not represented
-in the Node.js Github Organization but are active in the greater Node.js
+in the Node.js GitHub Organization but are active in the greater Node.js
 Community.
 
 More information about joining this Working Group is available in our 
@@ -33,7 +33,7 @@ More information about joining this Working Group is available in our
 Due to the nature of the work the Inclusivity Working Group engages in,
 it employs a [more specific and stricter Code of Conduct][2] than the 
 [Node.js project][4]. It is our belief that both Codes of Conduct are in
-the same spirit, the Working Groups' CoC simply being an extension of
+the same spirit, the Working Group's CoC simply being an extension of
 Node.js' CoC, with additional operational details regarding enforcement.
 
 ### Scope
