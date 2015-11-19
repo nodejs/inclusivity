@@ -2,6 +2,8 @@
 
 ## Proposed Charter
 
+#### PLEASE KEEP IN MIND THAT THIS IS A LIVING DOCUMENT, AND AS SUCH, IS PRONE TO MAJOR CHANGES
+
 (This charter has not yet been ratified by the Node.js TSC.)
 
 ### Statement of Purpose
