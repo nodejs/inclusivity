@@ -33,7 +33,7 @@ More information about joining this Working Group is available in our
 Due to the nature of the work the Inclusivity Working Group engages in,
 it employs a [more specific and stricter Code of Conduct][2] than the 
 [Node.js project][4]. It is our belief that both Codes of Conduct are in
-the same spirit, the Working Groups' CoC simply being an extension of
+the same spirit, the Working Group's CoC simply being an extension of
 Node.js' CoC, with additional operational details regarding enforcement.
 
 ### Scope
