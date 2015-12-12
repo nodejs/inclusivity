@@ -111,7 +111,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@sup](https://github.com/sup) (Jona Hugger)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
-* [@zkat](https://github.com/zkat) (Kat Marachan)
+* [@zkat](https://github.com/zkat) (Kat Marchán)
 * *your name here*
 
 [1]: https://github.com/nodejs/inclusivity/pull/32
