@@ -22,5 +22,5 @@ By making a contribution to this project, I certify that:
 
 ## License
 
-Copyright 2016 by the Node.js Inclusivity Contributors
+Copyright Node.js Inclusivity Contributors
 SPDX-License-Identifier: MIT
