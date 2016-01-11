@@ -121,5 +121,5 @@ goal for the private spaces is to create a safe space for education and understa
 
 ## License
 
-Copyright 2016 by the Node.js Inclusivity Contributors
+Copyright Node.js Inclusivity Contributors
 SPDX-License-Identifier: MIT
