@@ -1,10 +1,7 @@
 # Inclusivity Working Group
 
-## Proposed Charter
-
-#### PLEASE KEEP IN MIND THAT THIS IS A LIVING DOCUMENT, AND AS SUCH, IS PRONE TO MAJOR CHANGES
-
-(This charter has not yet been ratified by the Node.js TSC.)
+## Charter
+> [Ratified by the TSC, 14 January 2016](https://github.com/nodejs/TSC/pull/29#issuecomment-171771185)
 
 ### Statement of Purpose
 
