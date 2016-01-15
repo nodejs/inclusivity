@@ -32,6 +32,17 @@ The definitions of various subjective terms such as "discriminatory",
 "hateful", or "confusing" will be decided at the sole discretion of
 the Node.js Inclusivity Working Group team members.
 
+Project maintainers have the right and responsibility to remove, edit,
+or reject comments, commits, code, wiki edits, issues, and other
+contributions that are not aligned to this Code of Conduct, or to ban
+temporarily or permanently any contributor for other behaviors that they
+deem inappropriate, threatening, offensive, or harmful.
+
+By adopting this Code of Conduct, project maintainers commit themselves
+to fairly and consistently applying these principles to every aspect of
+managing this project. Project maintainers who do not follow or enforce
+the Code of Conduct may be permanently removed from the project team.
+
 ## Friendly Harassment-Free Space
 
 We are committed to providing a friendly, safe and welcoming
@@ -111,8 +122,9 @@ to view the changes.
 This Code of Conduct is based on the [npm Code of Conduct].
 
 This Code of Conduct borrows heavily from the Stumptown Syndicate
-[Citizen's Code of Conduct](http://citizencodeofconduct.org/), and the
-[Rust Project Code of Conduct](https://www.rust-lang.org/conduct.html).
+[Citizen's Code of Conduct](http://citizencodeofconduct.org/), the
+[Rust Project Code of Conduct](https://www.rust-lang.org/conduct.html)
+and the [ChakraCore Code of Conduct](https://github.com/Microsoft/ChakraCore/blob/master/CODE_OF_CONDUCT.md)
 
 This document may be reused under a 
 [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
