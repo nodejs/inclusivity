@@ -32,16 +32,16 @@ The definitions of various subjective terms such as "discriminatory",
 "hateful", or "confusing" will be decided at the sole discretion of
 the Node.js Inclusivity Working Group team members.
 
-Project maintainers have the right and responsibility to remove, edit,
+Working Group members have the right and responsibility to remove, edit,
 or reject comments, commits, code, wiki edits, issues, and other
 contributions that are not aligned to this Code of Conduct, or to ban
 temporarily or permanently any contributor for other behaviors that they
 deem inappropriate, threatening, offensive, or harmful.
 
-By adopting this Code of Conduct, project maintainers commit themselves
+By adopting this Code of Conduct, Working Group members commit themselves
 to fairly and consistently applying these principles to every aspect of
-managing this project. Project maintainers who do not follow or enforce
-the Code of Conduct may be permanently removed from the project team.
+managing this project. Working Group members who do not follow or enforce
+the Code of Conduct may be permanently removed from the Working Group.
 
 ## Friendly Harassment-Free Space
 
