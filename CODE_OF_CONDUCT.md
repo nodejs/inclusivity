@@ -73,7 +73,7 @@ inappropriate physical contact; and unwelcome sexual attention.
 ## Reporting Violations of this Code of Conduct
 
 If you believe someone is harassing you or has otherwise violated this
-Code of Conduct, please contact us at inclusitivy@nodejs.org to send
+Code of Conduct, please contact us at inclusivity@nodejs.org to send
 us an abuse report.  If this is the initial report of a problem, please
 include as much detail as possible. The more context we have, the better
 we can assess and resolve the situation.
