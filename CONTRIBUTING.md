@@ -1,8 +1,52 @@
-Even though we have a charter, this WG is essentially still in its early
-stages.
-If you are interested in helping shape this WG, have a look at the issues and PRs.
+# Contributing
 
-_TODO: Add starting points_
+:sparkles: Hi! :sparkles: Welcome to the Node Inclusivity Working
+Group. We're excited that you'd like to contribute :)
+
+## First Steps
+
+1. __Read our [charter]__
+  
+  Think of it like a statement of purpose. Our charter gives a 
+  top-level view of what we'd like to accomplish with this WG.
+
+2. __Read the latest [meeting notes]__
+  
+  Every 2 weeks, the WG members get together to discuss current
+  issues and PRs, goals, and other related news. This is a great
+  way to figure out what's happening at the moment.
+
+3. __Read our docs__
+  
+  We have an interesting history, some rules around filing issues,
+  and other ideas. You can find all this info in the
+  [`/docs` directory].
+
+## Getting Involved
+
+This WG focuses on 2 types of deliverables:
+
+- Policies
+- Programs
+
+### Policies
+
+Policies that we have created live in the [`/policies` directory].
+We also consider our [Code of Conduct] a policy :)
+
+If you wish to file an issue to change a policy for this WG, change
+a policy in Node.js generally, or propose a new policy, please read
+this [document][1].
+
+### Programs
+
+Programs that we run and support are documented in 
+[`/programs` directory].
+
+You can check out proposed programs using the [`program` label].
+
+We are currently working on documentation for the process of proposing
+programs. For more information see [issue/91].
 
 ## Developer's Certificate of Origin 1.0
 
@@ -24,3 +68,13 @@ By making a contribution to this project, I certify that:
 
 Copyright Node.js Inclusivity Contributors
 SPDX-License-Identifier: MIT
+
+[charter]: README.md
+[Meeting Notes]: /meetings
+[Code of Conduct]: CODE_OF_CONDUCT.md
+[`/docs` directory]: /docs
+[`/policies` directory]: /policies
+[`/programs` directory]: /programs
+[issue/91]: https://github.com/nodejs/inclusivity/issues/91
+[`program` label]: https://github.com/nodejs/inclusivity/labels/program
+[1]: /docs/POLICY_ISSUES.md
