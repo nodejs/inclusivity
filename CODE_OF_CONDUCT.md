@@ -47,7 +47,7 @@ the Code of Conduct may be permanently removed from the Working Group.
 
 We are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender identity, sexual
-orientation, ability, ethnicity, religion, age, physical
+orientation, ability, ethnicity, religion or lack thereof, age, physical
 appearance, body size, race, or similar personal characteristics.
 
 Any spamming, trolling, flaming, baiting, or other attention-stealing
@@ -62,7 +62,7 @@ environment for all.
 
 Harassment includes, but is not limited to: harmful or prejudicial
 verbal or written comments related to gender identity, sexual
-orientation, ability, ethnicity, religion, age, physical
+orientation, ability, ethnicity, religion or lack thereof, age, physical
 appearance, body size, race, or similar personal characteristics;
 inappropriate use of nudity, sexual images, and/or sexually explicit
 language in public spaces; threats of physical or non-physical harm;
@@ -126,7 +126,7 @@ This Code of Conduct borrows heavily from the Stumptown Syndicate
 [Rust Project Code of Conduct](https://www.rust-lang.org/conduct.html)
 and the [ChakraCore Code of Conduct](https://github.com/Microsoft/ChakraCore/blob/master/CODE_OF_CONDUCT.md)
 
-This document may be reused under a 
+This document may be reused under a
 [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [npm Code of Conduct]: https://www.npmjs.com/policies/conduct
