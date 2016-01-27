@@ -28,4 +28,4 @@ Applications will be considered using the following criteria:
 - Once a decision is ready to be made, a vote is taken by the WG members. This is the official selection process, with the vote result being binding.
     - Applicants are approved by unanimous vote only.
 - If accepted, an invitation to the Slack is sent, the applicant is added as a collaborator to the GitHub repository, and their name is added to the official list of members.
-- If the candidate is rejected, a document is drafted summarising the reasons for rejection. This should related clearly back to the voting criteria above. This document is sent to the email they supplied in the Typeform.
+- If the candidate is rejected, a document is drafted summarising the reasons for rejection. This should relate clearly back to the voting criteria above. This document is sent to the email they supplied in the Typeform.
