@@ -113,8 +113,8 @@ goal for the private spaces is to create a safe space for education and understa
 * [@zkat](https://github.com/zkat) (Kat Marchán)
 * *your name here*
 
-[1]: https://github.com/nodejs/inclusivity/pull/32
-[2]: https://github.com/nodejs/inclusivity/pull/22
+[1]: https://github.com/nodejs/inclusivity/blob/master/docs/POLICY_ADMISSIONS.md
+[2]: https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md
 [3]: http://www.glaad.org/reference/transgender
 [4]: https://github.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md
 
