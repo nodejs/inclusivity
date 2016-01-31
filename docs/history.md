@@ -46,10 +46,10 @@ for a variety of reasons.
 The group lay dormant for several months until one fateful day in early November
 2015 when Myles Borins filed issue [#3721](https://github.com/nodejs/node/is20sues/3721)
 (content warning: discussions of suicide). This thread refocused the
-conversation back to inclusivity after having lay dormant for some time.
+conversation back to inclusivity after having been dormant for some time.
 
 The discussion of this issue, on GitHub, Twitter, and elsewhere attracted the
-attention of several new members. The new members and few remaining initial
+attention of several new members. The new members and remaining initial
 members were able to get the group started again.
 
 This time the momentum stuck, culminating in the Inclusivity Working Group
