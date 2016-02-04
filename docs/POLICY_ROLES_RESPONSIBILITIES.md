@@ -22,6 +22,7 @@ A member's time commitment can be spent on a variety of contributions including,
 - Developing resources for the wider node community (e.g. [Getting Started in Node.js Program](https://github.com/nodejs/inclusivity/issues/96)).
 - Reviewing [pull requests](https://github.com/nodejs/inclusivity/pulls) on the inclusivity repository.
 - Moderating [issues](https://github.com/nodejs/inclusivity/issues) on the inclusivity repository.
+- Enforcement of the working group's [code of conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md).
 - Assisting with moderation outside the inclusivity repository, when the group is asked for help.
 - Responding to emails and other outside requests sent to the inclusivity working group.
 - Participating in discussions on the private and/or public working group slack channels.
