@@ -35,7 +35,7 @@ A member's time commitment can be spent on a variety of contributions including,
 
 **Question for PR: Do we want to add something here about responsibilities around the code of conduct? I feel like members may be held to a higher standard.**
 
-If a member will be unavailable to meet these responsibilities, they are expected to notify the group in a timely manner, so resources can be planned accordingly. A member who cannot maintain these responsibilities for a significant amount of time will be asked to transition to a collaborator role.
+If a member will be unavailable to meet these responsibilities, they are expected to notify the group in a timely manner, so resources can be planned accordingly. A member who cannot maintain these responsibilities for a significant amount of time will be asked to transition to a contributor role.
 
 #### Permissions
 
@@ -47,17 +47,17 @@ Members have the following level of access and permissions for the working group
 - Have **INSERT PERMISSION/ORG LEVEL INFORMATION HERE** access on github.
 - Has priority for participation in working group meetings (because there are limited slots available in google hangouts).
 
-### Collaborator
-Collaborators are people who contribute to the inclusivity working group, but do not have specific responsibilities and commitments.
+### Contributor
+Contributors are people who contribute to the inclusivity working group, but do not have specific responsibilities and commitments.
 
-#### Becoming a collaborator
-**QUESTION FOR PR: Do we have a policy for becoming a collaborator? Should we? How does this work?**
+#### Becoming a contributor
+**QUESTION FOR PR: Do we have a policy for becoming a contributor? Should we? How does this work?**
 
 ### Responsibilities
 
-Collaborators do not have any specific time or deliverable commitments. They may contribute to the working group as much or as little as they like.
+Contributors do not have any specific time or deliverable commitments. They may contribute to the working group as much or as little as they like.
 
-Collaborator contributions may include, but are not limited to:
+Contributor contributions may include, but are not limited to:
 
 - Making pull requests on the inclusivity repository.
 - Contribution to discussions on issues and pull requests in the inclusivity repository.
@@ -65,13 +65,13 @@ Collaborator contributions may include, but are not limited to:
 
 #### Permissions
 
-Collaborators have the following level of access and permissions for the working group.
+Contributors have the following level of access and permissions for the working group.
 
 - Have access to public slack channel. This does not currently exist, but will be created some time in the near future.
 - Have **INSERT PERMISSION/ORG LEVEL INFORMATION HERE** access on github.
 - May participate in working group meetings when space allows.
 
-Collaborators **DO NOT** have permission to do the following.
+Contributors **DO NOT** have permission to do the following.
 
-- Collaborators can not speak for the working group in outreach, emails, etc. unless explicitly given permission by members.
-- Collaborators do not have access to private working group communications (e.g. private slack channel, emails sent to the working group email address).
+- Contributors can not speak for the working group in outreach, emails, etc. unless explicitly given permission by members.
+- Contributors do not have access to private working group communications (e.g. private slack channel, emails sent to the working group email address).
