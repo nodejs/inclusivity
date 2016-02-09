@@ -44,7 +44,7 @@ work on getting the group up and running, but that work pretty much stopped
 for a variety of reasons.
 
 The group lay dormant for several months until one fateful day in early November
-2015 when Myles Borins filed issue [#3721](https://github.com/nodejs/node/is20sues/3721)
+2015 when Myles Borins filed issue [#3721](https://github.com/nodejs/node/issues/3721)
 (content warning: discussions of suicide). This thread refocused the
 conversation back to inclusivity after having been dormant for some time.
 
@@ -72,6 +72,6 @@ getting ratified by the TSC on 14 January 2016.
 
 * 2015/6/13 - Working Group formed at NodeConf Adventure 2015
 * 2015/6/16 - First Working Group meeting
-* 2015/11/9 - Issue [#3721](https://github.com/nodejs/node/is20sues/3721) filed
+* 2015/11/9 - Issue [#3721](https://github.com/nodejs/node/issues/3721) filed
 * 2016/1/7 - Consulted with Microsoft's ChakraCore team on their [Code of Conduct](https://github.com/Microsoft/ChakraCore/blob/master/CODE_OF_CONDUCT.md)
 * 2016/1/14 - Working Group ratified by the TSC
