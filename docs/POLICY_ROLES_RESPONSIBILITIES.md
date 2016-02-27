@@ -18,6 +18,7 @@ Members are expected to commit at least 10 hours a month (**Question for PR: is 
 A member's time commitment can be spent on a variety of contributions including, but not limited to: 
 
 - Preparing and participating in working group meetings. See [issue #64](https://github.com/nodejs/inclusivity/issues/64) for discussion around the roles and responsibilities for meetings.
+- Participation in the member slack channel.
 - Developing new policies, documentation, etc. for the group (e.g. [add CONTRIBUTING.md content](https://github.com/nodejs/inclusivity/pull/88)).
 - Developing resources for the wider node community (e.g. [Getting Started in Node.js Program](https://github.com/nodejs/inclusivity/issues/96)).
 - Reviewing [pull requests](https://github.com/nodejs/inclusivity/pulls) on the inclusivity repository.
@@ -32,11 +33,9 @@ A member's time commitment can be spent on a variety of contributions including,
 
 **Question for PR: Do we want to have requirements around attending meetings? If so, I'd like them to be a little loose to account for difficulties with time zones and accessibility, so we aren't losing diversity in our membership.**
 
-**Question for PR: Do we want to have anything about the member-only slack channel here, since we sometimes use it for discussions?**
+If a member will be unavailable to meet these responsibilities, they are expected to notify the group in a timely manner, so resources can be planned accordingly. A member who cannot maintain these responsibilities for a significant amount of time will be asked to transition to a non-member role.
 
-**Question for PR: Do we want to add something here about responsibilities around the code of conduct? I feel like members may be held to a higher standard.**
-
-If a member will be unavailable to meet these responsibilities, they are expected to notify the group in a timely manner, so resources can be planned accordingly. A member who cannot maintain these responsibilities for a significant amount of time will be asked to transition to a contributor role.
+As representatives of the working group, members are expected to set an example with the [code of conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md). Violations of the code of conduct may lead to loss of member status and/or removal from the working group.
 
 #### Permissions
 
@@ -45,34 +44,45 @@ Members have the following level of access and permissions for the working group
 - Are allowed to speak on behalf of the group in outreach, emails, etc.
 - Have access to member-only, private slack channel.
 - Receive emails sent to the working group's email ([inclusivity@nodejs.org](mailto:inclusivity@nodejs.org)).
-- Have **INSERT PERMISSION/ORG LEVEL INFORMATION HERE** access on github.
+- Github: 
+    - Content: view, edit. 
+    - Issues: view, comment, edit, close.
+    - Pull requests: create, comment, merge, close.
+    - Moderation of issues, pull requests, etc.
 - Has priority for participation in working group meetings (because there are limited slots available in google hangouts).
 
-### Contributor
-Contributors are people who contribute to the inclusivity working group, but do not have specific responsibilities and commitments.
+### Non-members
+Non-members are people who contribute to the inclusivity working group, but do not have specific responsibilities and commitments.
 
-#### Becoming a contributor
-**QUESTION FOR PR: Do we have a policy for becoming a contributor? Should we? How does this work?**
+#### Becoming a non-member
+Anyone can be a non-member. Review the [code of conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md) before participating to familiarize yourself with expected behavior when contributing to the working group.
+
+***Insert steps for getting access to the public slack here.***
 
 ### Responsibilities
 
-Contributors do not have any specific time or deliverable commitments. They may contribute to the working group as much or as little as they like.
+Non-members do not have any specific time or deliverable commitments. They may contribute to the working group as much or as little as they like.
 
-Contributor contributions may include, but are not limited to:
+Non-member contributions may include, but are not limited to:
 
 - Making pull requests on the inclusivity repository.
 - Contribution to discussions on issues and pull requests in the inclusivity repository.
 - Participating in discussions on the public working group slack channel (to be created in the near future).
 
+Non-members are expected to follow the [code of conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md). Violations of the code of conduct may lead to removal from the working group.
+
 #### Permissions
 
-Contributors have the following level of access and permissions for the working group.
+Non-members have the following level of access and permissions for the working group.
 
 - Have access to public slack channel. This does not currently exist, but will be created some time in the near future.
-- Have **INSERT PERMISSION/ORG LEVEL INFORMATION HERE** access on github.
+- Github: 
+    - Content: view. 
+    - Issues: view, comment.
+    - Pull requests: create, comment.
 - May participate in working group meetings when space allows.
 
-Contributors **DO NOT** have permission to do the following.
+Non-members **DO NOT** have permission to do the following.
 
-- Contributors can not speak for the working group in outreach, emails, etc. unless explicitly given permission by members.
-- Contributors do not have access to private working group communications (e.g. private slack channel, emails sent to the working group email address).
+- Non-members can not speak for the working group in outreach, emails, etc. unless explicitly given permission by members.
+- Non-members do not have access to private working group communications (e.g. private slack channel, emails sent to the working group email address).
