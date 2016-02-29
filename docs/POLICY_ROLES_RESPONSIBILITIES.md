@@ -46,7 +46,7 @@ Members have the following level of access and permissions for the working group
 - Receive emails sent to the working group's email ([inclusivity@nodejs.org](mailto:inclusivity@nodejs.org)).
 - Github: 
     - Content: view, edit. 
-    - Issues: view, comment, edit, close.
+    - Issues: view, create, comment, edit, close.
     - Pull requests: create, comment, merge, close.
     - Moderation of issues, pull requests, etc.
 - Has priority for participation in working group meetings (because there are limited slots available in google hangouts).
@@ -78,7 +78,7 @@ Non-members have the following level of access and permissions for the working g
 - Have access to public slack channel. This does not currently exist, but will be created some time in the near future.
 - Github: 
     - Content: view. 
-    - Issues: view, comment.
+    - Issues: view, create, comment.
     - Pull requests: create, comment.
 - May participate in working group meetings when space allows.
 
