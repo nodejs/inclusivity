@@ -54,7 +54,7 @@ Contributors are people who contribute to the inclusivity working group, but do 
 
 Anyone can be a contributor, and there is no admissions process for becoming a contributor. Review the [Code of Conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md) before participating to familiarize yourself with expected behavior when contributing to the working group.
 
-### Responsibilities
+#### Responsibilities
 
 Contributors do not have any specific time or deliverable commitments. They may contribute to the working group as much or as little as they like.
 
