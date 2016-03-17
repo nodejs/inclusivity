@@ -24,13 +24,13 @@ Working group may also be extended to those people who are not represented
 in the Node.js GitHub Organization but are active in the greater Node.js
 Community.
 
-More information about joining this Working Group is available in our 
+More information about joining this Working Group is available in our
 [Membership Policy][1].
 
 ### Code of Conduct
 
 Due to the nature of the work the Inclusivity Working Group engages in,
-it employs a [more specific and stricter Code of Conduct][2] than the 
+it employs a [more specific and stricter Code of Conduct][2] than the
 [Node.js project][4]. It is our belief that both Codes of Conduct are in
 the same spirit, the Working Group's CoC simply being an extension of
 Node.js' CoC, with additional operational details regarding enforcement.
@@ -55,7 +55,7 @@ governance process.
 ### List of Responsibilities
 
 * Foster a welcoming environment that ensures participants are valued and can
-feel confident contributing or joining discussions, regardless of any aspect of 
+feel confident contributing or joining discussions, regardless of any aspect of
 their identity, including but not limited to:
   - racial or ethnic background
   - nationality
@@ -67,7 +67,7 @@ their identity, including but not limited to:
   - religion, or lack thereof
 * Proactively seek and propose concrete steps the project can take to increase
 inclusivity.
-* Serve as a resource for the development and enforcement of workflows that 
+* Serve as a resource for the development and enforcement of workflows that
 protect community members and projects from harassment and abuse.
 * Acknowledge and celebrate existing diversity accomplishments within the
 project while seeking to build upon them.
@@ -76,7 +76,7 @@ report them at regular intervals.
 
 ### Communication Policy
 
-As is the case in the TSC, the Inclusivity Working Group seeks to be as 
+As is the case in the TSC, the Inclusivity Working Group seeks to be as
 transparent and public in its communications as possible.
 
 However, due to the nature of the work the WG engages in, it is necessary
@@ -88,7 +88,7 @@ Private spaces will specifically be created to discuss:
 - Early Policy Discussions
 
 All private communication will be anonymized and posted publicly for discussion.
-In no way will any binding decisions be made in private. All decisions will be 
+In no way will any binding decisions be made in private. All decisions will be
 either line items in public reports or, for larger topics, be summarized in public
 issues, specifically to receive structured community feedback for no less than a
 one week review period.
@@ -106,6 +106,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@othiym23](https://github.com/othiym23) (Forrest L Norvell)
 * [@hg](https://github.com/hg) (Jona Hugger)
+* [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
 * [@zkat](https://github.com/zkat) (Kat Marchán)
