@@ -52,8 +52,7 @@ Members have the following level of access and permissions for the working group
 ### Contributors
 Contributors are people who contribute to the inclusivity working group, but do not have specific responsibilities and commitments.
 
-#### Becoming a contributor
-Anyone can be a contributor. Review the [Code of Conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md) before participating to familiarize yourself with expected behavior when contributing to the working group.
+Anyone can be a contributor, and there is no admissions process for becoming a contributor. Review the [Code of Conduct](https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md) before participating to familiarize yourself with expected behavior when contributing to the working group.
 
 ### Responsibilities
 
