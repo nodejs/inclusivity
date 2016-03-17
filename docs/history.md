@@ -67,6 +67,7 @@ getting ratified by the TSC on 14 January 2016.
 * 2015/10/10 - [@juliepagano](https://github.com/juliepagano) (Julie Pagano)
 * 2015/10/17 - [@sup](https://github.com/sup) (Jona Hugger)
 * 2015/10/17 - [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
+* 2016/03/17 - [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 
 ## Events
 
