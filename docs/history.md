@@ -55,7 +55,7 @@ members were able to get the group started again.
 This time the momentum stuck, culminating in the Inclusivity Working Group
 getting ratified by the TSC on 14 January 2016.
 
-## Members
+## Membership Timeline
 
 * 2015/06/13 - [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * 2015/06/13 - [@othiym23](https://github.com/othiym23) (Forrest L Norvell)
