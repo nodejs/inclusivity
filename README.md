@@ -97,7 +97,7 @@ We believe that private spaces will mitigate the intense, often unintended publi
 backlash people can often incur when dealing with an inclusivity situation. The
 goal for the private spaces is to create a safe space for education and understanding.
 
-### Initial Membership
+### Members
 
 * [@ashleygwilliams](https://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
