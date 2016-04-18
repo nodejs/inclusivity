@@ -48,6 +48,14 @@ You can check out proposed programs using the [`program` label].
 We are currently working on documentation for the process of proposing
 programs. For more information see [issue/91].
 
+## Discussions
+
+We try to keep as much discussion as possible in public to maximize
+transparency and community participation. Most of our discussions occur
+in [Slack] or [GitHub issues]. Participating in Slack discussions
+requires joining the node-inclusivity Slack team. To do so, please use
+the [Node.js Inclusivity Slack Inviter].
+
 ## Developer's Certificate of Origin 1.0
 
 By making a contribution to this project, I certify that:
@@ -78,3 +86,6 @@ SPDX-License-Identifier: MIT
 [issue/91]: https://github.com/nodejs/inclusivity/issues/91
 [`program` label]: https://github.com/nodejs/inclusivity/labels/program
 [1]: /docs/POLICY_ISSUES.md
+[Slack]: https://node-inclusivity.slack.com
+[GitHub issues]: https://github.com/nodejs/inclusivity/issues
+[Node.js Inclusivity Slack Inviter]: http://node-inclusivity.nebri.us/
