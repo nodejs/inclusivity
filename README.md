@@ -101,6 +101,8 @@ goal for the private spaces is to create a safe space for education and understa
 
 * [@ashleygwilliams](https://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
+* [@charlotteis](https://github.com/charlotteis) (Charlotte Spencer)
+* [@julianduque](https://github.com/julianduque) (Julián Duque)
 * [@juliepagano](https://github.com/juliepagano) (Julie Pagano)
 * [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
