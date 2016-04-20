@@ -68,6 +68,8 @@ getting ratified by the TSC on 14 January 2016.
 * 2015/10/17 - [@sup](https://github.com/sup) (Jona Hugger)
 * 2015/10/17 - [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * 2016/03/17 - [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
+* 2016/04/18 - [@charlotteis](https://github.com/charlotteis) (Charlotte Spencer)
+* 2016/04/18 - [@julianduque](https://github.com/julianduque) (Julián Duque)
 
 ## Events
 
