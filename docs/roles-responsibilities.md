@@ -10,7 +10,7 @@ Members are the core group of people responsible for the inclusivity working gro
 The current list of members can be found [here](https://github.com/nodejs/inclusivity#initial-membership).
 
 #### Becoming a member
-See the [admissions policy](https://github.com/nodejs/inclusivity/blob/master/docs/POLICY_ADMISSIONS.md) for details about the process for becoming a member.
+See the [admissions policy](https://github.com/nodejs/inclusivity/blob/master/docs/admissions-policy.md) for details about the process for becoming a member.
 
 #### Responsibilities
 Members are expected to contribute in some way every two weeks because the group delivers on a biweekly basis.

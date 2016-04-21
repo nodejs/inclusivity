@@ -95,7 +95,7 @@ SPDX-License-Identifier: MIT
 [`/programs` directory]: /programs
 [issue/91]: https://github.com/nodejs/inclusivity/issues/91
 [`program` label]: https://github.com/nodejs/inclusivity/labels/program
-[1]: /docs/POLICY_ISSUES.md
+[1]: /docs/issue-policy.md
 [Slack]: https://node-inclusivity.slack.com
 [GitHub issues]: https://github.com/nodejs/inclusivity/issues
 [Node.js Inclusivity Slack Inviter]: http://node-inclusivity.nebri.us/
