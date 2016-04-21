@@ -1,6 +1,6 @@
 <!--
 Thanks for your interest in improving inclusivity and diversity within the Node.js project. Please read the following policy document to ensure the issue stays on topic and can be resolved quickly:
-https://github.com/nodejs/inclusivity/blob/master/docs/POLICY_ISSUES.md
+https://github.com/nodejs/inclusivity/blob/master/docs/issue-policy.md
 -->
 
 ## Purpose

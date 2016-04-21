@@ -1,4 +1,4 @@
-If you are interested in becoming a member of the Inclusivity Working Group, please [submit your application here](https://nebrius.typeform.com/to/dsvEs5). If you would like to learn more about member responsibilities, please [check out our Roles and Responsibilities guide](https://github.com/nodejs/inclusivity/blob/master/docs/POLICY_ROLES_RESPONSIBILITIES.md).
+If you are interested in becoming a member of the Inclusivity Working Group, please [submit your application here](https://nebrius.typeform.com/to/dsvEs5). If you would like to learn more about member responsibilities, please [check out our Roles and Responsibilities guide](https://github.com/nodejs/inclusivity/blob/master/docs/roles-responsibilities.md).
 
 # Process Notes
 
