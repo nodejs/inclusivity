@@ -1,6 +1,9 @@
 # Inclusivity Working Group
 
-If you are interested in becoming a member of the Inclusivity Working Group, please [submit your application here](https://nebrius.typeform.com/to/dsvEs5).
+If you are interested in becoming a member of the Inclusivity Working Group,
+please [submit your application here](https://nebrius.typeform.com/to/dsvEs5).
+If you would like to participate in our slack channel, please
+[invite yourself here](http://node-inclusivity.nebri.us/).
 
 ## Charter
 > [Ratified by the TSC, 14 January 2016](https://github.com/nodejs/TSC/pull/29#issuecomment-171771185)
