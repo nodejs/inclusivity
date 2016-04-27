@@ -21,6 +21,7 @@ Applications will be considered using the following criteria:
 - Does the applicant have a reasonable understanding of inclusivity and diversity?
 - Does the applicant seem sincere in their application, i.e. not a troll?
 - Does the applicant bring a new perspective to the Inclusivity Working Group?
+- Has the applicant previously contributed to the Inclusivity Working Group on GitHub or in Slack? (major bonus points)
 
 # Response steps:
 
