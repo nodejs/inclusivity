@@ -70,7 +70,8 @@ Contributor are expected to follow the [Code of Conduct](https://github.com/node
 
 Contributors have the following level of access and permissions for the working group.
 
-- Have access to public slack channel. This does not currently exist, but will be created some time in the near future.
+- Have access to public slack channel
+    - You can invite yourself [here](http://node-inclusivity.nebri.us/).
 - Github:
     - Content: view.
     - Issues: view, create, comment.
