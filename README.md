@@ -115,7 +115,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
 * [@zkat](https://github.com/zkat) (Kat Marchán)
-* *your name here*
+* *add your name here* by [applying](docs/admissions-policy.md)!
 
 [1]: https://github.com/nodejs/inclusivity/blob/master/docs/admissions-policy.md
 [2]: https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md
