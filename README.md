@@ -109,7 +109,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@othiym23](https://github.com/othiym23) (Forrest L Norvell)
-* [@ore](https://github.com/ore) (Jona Hugger)
+* [@Lac](https://github.com/Lac) (Jona Hugger)
 * [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
