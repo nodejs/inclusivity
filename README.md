@@ -105,7 +105,6 @@ goal for the private spaces is to create a safe space for education and understa
 * [@ashleygwilliams](https://github.com/ashleygwilliams) (Ashley Williams, ag_dubs)
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
 * [@julianduque](https://github.com/julianduque) (Julián Duque)
-* [@juliepagano](https://github.com/juliepagano) (Julie Pagano)
 * [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@othiym23](https://github.com/othiym23) (Forrest L Norvell)
@@ -113,7 +112,6 @@ goal for the private spaces is to create a safe space for education and understa
 * [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
-* [@zkat](https://github.com/zkat) (Kat Marchán)
 * *add your name here* by [applying](docs/admissions-policy.md)!
 
 [1]: https://github.com/nodejs/inclusivity/blob/master/docs/admissions-policy.md
