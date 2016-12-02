@@ -104,7 +104,6 @@ goal for the private spaces is to create a safe space for education and understa
 
 * [@beaugunderson](https://github.com/beaugunderson) (Beau Gunderson)
 * [@hackygolucky](https://github.com/hackygolucky) (Tracy Hinds)
-* [@julianduque](https://github.com/julianduque) (Julián Duque)
 * [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
 * [@fene](https://github.com/fene) (Fen)
