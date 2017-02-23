@@ -1,10 +1,5 @@
 # Inclusivity Working Group
 
-If you are interested in becoming a member of the Inclusivity Working Group,
-please [submit your application here](https://nebrius.typeform.com/to/dsvEs5).
-If you would like to participate in our slack channel, please
-[invite yourself here](http://node-inclusivity.nebri.us/).
-
 ## Charter
 > [Ratified by the TSC, 14 January 2016](https://github.com/nodejs/TSC/pull/29#issuecomment-171771185)
 
@@ -26,9 +21,6 @@ Additionally, membership and participation in the Inclusivity
 Working group may also be extended to those people who are not represented
 in the Node.js GitHub Organization but are active in the greater Node.js
 Community.
-
-More information about joining this Working Group is available in our
-[Membership Policy][1].
 
 ### Code of Conduct
 
@@ -110,9 +102,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
-* *add your name here* by [applying](docs/admissions-policy.md)!
 
-[1]: https://github.com/nodejs/inclusivity/blob/master/docs/admissions-policy.md
 [2]: https://github.com/nodejs/inclusivity/blob/master/CODE_OF_CONDUCT.md
 [3]: http://www.glaad.org/reference/transgender
 [4]: https://github.com/nodejs/node/blob/master/CODE_OF_CONDUCT.md
