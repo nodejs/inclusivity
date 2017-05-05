@@ -98,7 +98,7 @@ goal for the private spaces is to create a safe space for education and understa
 * [@hackygolucky](https://github.com/hackygolucky) (Tracy Hinds)
 * [@nathan7](https://github.com/nathan7) (Nathan Zadoks)
 * [@nebrius](https://github.com/nebrius) (Bryan Hughes)
-* [@fene](https://github.com/fene) (Fen)
+* [@pnn](https://github.com/pnn) (Penny Hugger)
 * [@scottgonzalez](https://github.com/scottgonzalez/) (Scott González)
 * [@thefourtheye](https://github.com/thefourtheye) (Sakthipriyan Vairamani)
 * [@Trott](https://github.com/Trott) (Rich Trott)
